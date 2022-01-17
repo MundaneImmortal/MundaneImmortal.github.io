@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jiazhen Xu"
   avatar           : "profile.png"
-  bio              : "Junior student of ZJU-UIUC Institute"
-  location         : 
+  bio              : "Junior student of Computer Engineering at ZJU-UIUC Institute"
+  location         : "Hang Zhou, China"
   employer         :
   pubmed           : 
   googlescholar    : 
