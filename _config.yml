@@ -83,11 +83,11 @@ author:
   name             : "Jiazhen Xu"
   avatar           : "profile.png"
   bio              : "Junior student of ZJU-UIUC Institute"
-  location         : "Location"
+  location         : 
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : 
+  email            : “jiazhen6@illinois.edu”
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
