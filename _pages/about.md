@@ -24,9 +24,9 @@ CV
 Here is my [CV](../files/CV.pdf){:target="_blank"} and [transcript](../files/transcript.pdf){:target="_blank"} -->
 
 ## Contact Info
-Email:[jiazhen6@illinois.edu](mailto:jiazhen6@illinois.edu) / [jiazhen.19@intl.zju.edu.cn](mailto:jiazhen.19@intl.zju.edu.cn)
-Cell Phone: (+86) 150-9732-6906 / (+1) 217-419-1519
-Address: <address>309 E. Springfield AVE, Urbana, IL, USA</address>
+Email: [jiazhen6@illinois.edu](mailto:jiazhen6@illinois.edu) / [jiazhen.19@intl.zju.edu.cn](mailto:jiazhen.19@intl.zju.edu.cn)<br/>
+Cell Phone: (+86) 150-9732-6906 / (+1) 217-419-1519<br/>
+Address: *309 E. Springfield AVE, Urbana, IL, USA*
 
 
 
