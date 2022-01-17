@@ -20,4 +20,4 @@ author_profile: true
 * Abstract:
   * Propsed anomaly discrimination learning with pseudo normality score generation and multi-instancecontrastive learning for distinguishing abnormal samples from the unlabeled set.
   * Combined the discrimination learning with mean-shifted contrastive learning and distribution-shiftingtransformation classification into a multitask representation learning framework to improve the stability androbustness of the training.
-* status: Submitted to ICME 2022
+* status: Submitted to ICME 2022.
