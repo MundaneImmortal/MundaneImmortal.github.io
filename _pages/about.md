@@ -12,7 +12,7 @@ redirect_from:
 For your convenience, my CV is [here](../files/CV.pdf){:target="_blank"}
 
 ## Self-introduction
-I’m **self-motivated** and **determined** with a strong desire for a **PHD/MS** degree in **Computer Science**. I firmly believe that ardent love brings me invincible faith to fulfil every choice and commitment. Coding, music, and sports, the three major components of my life, are really where my passion lies. Besides, I am always prepared to explore possibilities instead of staying at my comfort zone.
+I’m **self-motivated** and **determined** with a strong desire for a **PHD** degree in **Computer Science**. I firmly believe that ardent love brings me invincible faith to fulfil every choice and commitment. Coding, music, and sports, the three major components of my life, are really where my passion lies. Besides, I am always prepared to explore possibilities instead of staying at my comfort zone.
 
 ## Education Experience
 I'm currently a junior student with the major of Computer Engineering in [ZJU-UIUC institute](https://zjui.intl.zju.edu.cn/en){:target="_blank"}. After graduation in 2023, I will earn double bachedule degrees both from [University of Illinois at Urbana-Champaign](https://illinois.edu/index.html){:target="_blank"} and [Zhejiang University](https://www.zju.edu.cn/english/){:target="_blank"}. 
